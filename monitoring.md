@@ -33,7 +33,7 @@ In addition, all the metrics from individual namespaces on Kubernetes/Openshift 
 
 [pgMonitor](https://access.crunchydata.com/documentation/pgmonitor/2.2/#:~:text=pgmonitor%20is%20an%20open%2Dsource,the%20health%20of%20the%20system.)  is your all-in-one tool to easily create an environment to visualize the health and performance of your PostgreSQL cluster.
 
-![alt text](../Images/pgmonitor.gif)
+![../Images/pgmonitor.gif](https://github.com/CrunchyData/pgmonitor/blob/development/hugo/static/images/PGMonitor.gif)
 
 
 
